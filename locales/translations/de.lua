@@ -1,7 +1,7 @@
 Language["de"] = {
-    open_register = "Drücke ~INPUT_CONTEXT~ to open the register.",
-    register_title = "%s (Billing: %s)",
-    register_select_player = "Select Player to Bill.",
+    open_register = "Drücke ~INPUT_CONTEXT~ um die Kasse  zu öffnen.",
+    register_title = "%s (Rechnung: %s)",
+    register_select_player = "Wähle einen Spieler um die Rechnung auszustellen.",
     register_group_denied = "Du kannst diese Kasse nicht benutzen.",
     cant_afford_target = "You cannot afford the bill you were issued. (Clerk ID: %s)",
     cant_afford_source = "The person you have billed cannot afford this bill. (ID: %s)",
